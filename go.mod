@@ -1,4 +1,4 @@
-module github.com/angelolapus/terraform-provider-launchdarkly-flag-evaluation
+module github.com/launchdarkly-labs/terraform-provider-launchdarkly-flag-evaluation
 
 go 1.17
 
