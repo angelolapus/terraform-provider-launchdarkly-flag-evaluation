@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
-	launchdarkly_flag_eval "github.com/angelolapus/terraform-provider-launchdarkly-flag-evaluation/tree/main/ldflags"
+	launchdarkly_flag_eval "github.com/launchdarkly-labs/terraform-provider-launchdarkly-flag-evaluation/tree/main/ldflags"
 )
 
 func main() {
