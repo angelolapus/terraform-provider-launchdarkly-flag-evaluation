@@ -9,6 +9,6 @@ import (
 
 func main() {
 	providerserver.Serve(context.Background(), launchdarkly_flag_eval.New, providerserver.ServeOpts{
-		Address: "registry.terraform.io/providers/angelolapus/launchdarkly-flag-evaluation",
+		Address: "registry.terraform.io/angelolapus/launchdarkly-flag-evaluation",
 	})
 }
